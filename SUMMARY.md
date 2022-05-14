@@ -3,7 +3,7 @@
 * [Introduction](README.md)
   * [The AOD World](<01AOD Official/012The AOD World.md>)
   * [Advantages of Gameunion](<01AOD Official/013Advantages of Gameunion Products.md>)
-* [AOD Property](<02AOD Property.md)
+* [AOD Property](<02AOD Property.md>)
   * [AOD Land](<02AOD Property/021AOD Land.md>)
   * [AOD Character](<02AOD Property/022AOD Character.md>)
 * [DAO In AOD](<03DAO In AOD.md>)
