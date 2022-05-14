@@ -1,6 +1,5 @@
 # <img src="./IMG/building.png" width="3%" class="img_l1"> Alliance of Doomsday(AOD) Official
 #### Official AOD (Alliance of Doomsday) White Paper, last updated Friday, May 15, 2022
-----------
 ##  Introduction
 Alliance of Doomsday (Referred as AOD) is the first game launched on the GameUnion platform. The core gameplay of this product is strategic warfare. Players manage their own bases, train troops, create personalized heroes, and seek their own way of survival in troubled times.
 

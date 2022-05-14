@@ -13,7 +13,7 @@
 * [Smart Contract](<07Smart Contract.md>)
 * [Roadmap](<08Roadmap.md>)
 * [Team](<09Team.md>)
-* [Partners]
+* Partners
   * [coingecko](https://www.coingecko.com)
   * [coinmarketcap](https://coinmarketcap.com)
   * [certik](https://www.certik.com)
@@ -26,7 +26,7 @@
   * [trustwallet](https://trustwallet.com)
   * [huobiwallet](https://www.huobiwallet.com)
   * [tokenpocket](https://www.tokenpocket.pro)
-* [Official Chanel]
+* Official Chanel
   * [Discord](https://discord.gg/fSHtrYbBgz)
   * [Telegram](https://t.me/AODNFT)
   * [Twitter](https://twitter.com/zhao_hongguo)
