@@ -1,11 +1,11 @@
 {
-    "title": "Alliance of Doomsday（AOD）",
+    "title": "AOD (Alliance of Doomsday) White Paper",
     "author": "AOD_ZHG",
-    "description": "select * from learn",
-    "language": "zh-hans",
+    "description": "This white paper represents the basic information of AOD. Due to commercial confidentiality restrictions, some information is not fully described. Please make sure you first read the disclaimer and risk warning at the end of the document to fully understand the purpose, status and limitations of this white paper.",
+    "language": "en",
     "gitbook": "3.2.3",
     "styles": {
-        "website": "./styles/website.css"
+        "website": "styles/website.css"
     },
     "structure": {
         "readme": "README.md"
@@ -14,5 +14,9 @@
         "sidebar": {
             "AODNFT.com": "https://aodnft.com/#/"
         }
+    },
+    "plugins": ["expandable-chapters"],
+    "pluginsConfig": {
+        "expandable-chapters":{}
     }
 }

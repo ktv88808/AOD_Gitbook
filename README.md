@@ -1,7 +1,14 @@
-# 末世联盟Introduction
+# <img src="./IMG/building.png" width="3%" class="img_l1"> Alliance of Doomsday(AOD) Official
+#### Official AOD (Alliance of Doomsday) White Paper, last updated Friday, May 15, 2022
+----------
+##  Introduction
+Alliance of Doomsday (Referred as AOD) is the first game launched on the GameUnion platform. The core gameplay of this product is strategic warfare. Players manage their own bases, train troops, create personalized heroes, and seek their own way of survival in troubled times.
 
-## Alliance of Doomsday（AOD）
+![image](IMG/001.jpg)
 
-#### 区块链游戏发行的未来趋势
+The product uses blockchain technology to make it run in an open working environment to ensure fairness among players and the value and security of digital assets.
 
-本书代表Alliance of Doomsday的基础信息。由于商业保密限制，某些信息未完整描述。请确保您首先阅读文件末尾的免责声明和风险提示，以充分了解本白皮书的目的，状态与限制内容
+At the same time, the product also introduces the concept of DAO to give players the right of community autonomy. You are not only the player, but also the owner of the game.
+
+The AOD is a SLG game experiences to NFT collectibles on the blockchain by GameUnion. 
+
