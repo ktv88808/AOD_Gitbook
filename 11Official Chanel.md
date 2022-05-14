@@ -1,5 +1,4 @@
 # <img src="./IMG/Rocket.png" width="3%" class="img_l1"> Official Chanel
-----------
   ### [Discord](https://discord.gg/fSHtrYbBgz)
 
   ### [Telegram](https://t.me/AODNFT)

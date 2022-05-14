@@ -1,6 +1,5 @@
 #  <img src="./IMG/flash.png" width="3%" class="img_l1"> AOD Land
 #### Core assets in AOD games
-----------
 Land is an important NFT asset in the game. You need to buy land before you can officially start the game. You will build buildings of various purposes and functions on this land, and use these buildings to collect resources, train soldiers, upgrade technology and other business activities, so that it becomes a strong and prosperous base. You rely on this base to resist the biochemical invasion of the outside world, expand your territory, and fight everywhere, become a hero in the end times and troubled times, and achieve great achievements. 
 
 ![image](IMG/0212.jpg)

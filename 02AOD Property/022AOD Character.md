@@ -1,6 +1,5 @@
 #  <img src="./IMG/flash.png" width="3%" class="img_l1"> AOD Character
 #### There are 3 ways to collect heroes: via rescue hero, buy in shop and auction in the marketplace.
-----------
 Heroes are another important NFT asset in the product. It not only has powerful combat power and cool appearance, but also has unique skills, which can play a huge role in combat, defense, production, construction and other fields. 
 
 ![image](IMG/0221.jpg)

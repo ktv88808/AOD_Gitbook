@@ -1,5 +1,4 @@
 # <img src="./IMG/bingo.png" width="3%" class="img_l1"> FAQ
-----------
 ### 1. Does TokenGU have any mechanism to push the price in favor of holders? Can games generate steady passive income?
 The first phase of the game is a core gameplay-focused version of the initial state, so with every update and new phase there will be new features, better UI improvements, more exciting new game modes, which we believe will Helps attract new investors and increase the price of TokenGU over time.
 ### 2. Do you have any plans to burn TokenGU?

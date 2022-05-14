@@ -1,6 +1,5 @@
 # <img src="./IMG/house.png" width="3%" class="img_l1"> DAO In AOD
 #### The DAO is the fundamental principle on which we build our community.
-----------
 However, how to integrate the basic concept of DAO into the GameFi community governance, how to realize DAO from the technical and contract level, and let the game guild and game players experience the essence of DAO, has always been a problem.
 
 We’re seeing these same patterns in DAO play out in Web3.

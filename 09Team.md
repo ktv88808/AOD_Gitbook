@@ -1,6 +1,5 @@
 # <img src="./IMG/trophy.png" width="3%" class="img_l1"> Team
 #### GameUnion is an indie game developer founded in 2007 focusing on building casual mobile games for over a decade and has recently transitioned into Blockchain Gaming.
-----------
 GameUnion are a casual game development studio founded in 2013 with the goal of creating the most popular indie game products. With the rise of web3.0, we transform to the blockchain field from 2021, making blockchain games.
 
 ![image](IMG/091.jpg)

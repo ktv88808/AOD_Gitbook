@@ -1,5 +1,4 @@
 # <img src="./IMG/Partners.png" width="3%" class="img_l1"> Partners
-----------
 ###  [coingecko](https://www.coingecko.com)
 
 ###  [coinmarketcap](https://coinmarketcap.com)
