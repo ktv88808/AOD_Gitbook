@@ -7,7 +7,6 @@ Alliance of Doomsday (Referred as AOD) is the first game launched on the GameUni
   <img
   src="IMG/001.jpg"
   alt="The beautiful MDN logo.">
-  <figcaption>Alliance of Doomsday</figcaption>
 </figure>
 
 The product uses blockchain technology to make it run in an open working environment to ensure fairness among players and the value and security of digital assets.
