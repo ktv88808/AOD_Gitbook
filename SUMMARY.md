@@ -6,7 +6,7 @@
 * [🕹 AOD Property](<02AOD Property.md>)
   * [🏝 AOD Land](<02AOD Property/021AOD Land.md>)
   * [🪖 AOD Character](<02AOD Property/022AOD Character.md>)
-* [🏛 DAO In AOD](<03DAO In AOD.md>)
+* [🕍 DAO In AOD](<03DAO In AOD.md>)
 * [🎮 GamePlay](04GamePlay.md)
 * [🪙 Treasury](05Treasury.md)
 * [🪐 GU Economic](<06Game Economic.md>)
