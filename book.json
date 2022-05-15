@@ -12,7 +12,7 @@
     },
     "links": {
         "sidebar": {
-            "AODNFT.com": "https://aodnft.com/#/"
+            "AODNFT": "https://aodnft.com/#/"
         }
     },
     "plugins": ["expandable-chapters"],
