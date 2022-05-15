@@ -9,7 +9,7 @@
 * [DAO In AOD](<03DAO In AOD.md>)
 * [GamePlay](<04GamePlay.md>)
 * [Treasury](<05Treasury.md>)
-* [Game Economic](<06Game Economic.md>)
+* [GameUnion Economic](<06Game Economic.md>)
 * [Roadmap](<08Roadmap.md>)
 * [Team](<09Team.md>)
 * Official Chanel
