@@ -18,6 +18,9 @@ Players can train heroes according to their own preferences, obtain various skil
 Each combat unit has its own characteristics and combat positioning. There is a mutual growth and mutual restraint relationship between the four combat units. Players can use their strategies flexibly and reasonably match arms to make themselves victorious in every battle.
 #### 6. There are four resources in the game plan: stone, wood, food, and oil. 
 Players will have specific needs for these resources in the construction, production, research, training, medical and other modules. Therefore, when collecting resources, it is necessary to evenly distribute the collection power as much as possible, and there must be no shortcomings and emphasis, otherwise it will not be conducive to the subsequent operation and development, which is also a test of the player's wealth management ability.
+
+![image](IMG/Hero4.jpg)
+
 #### 7. Field system: There are various biochemical monsters wandering around the base area, and there are also strongholds with rich mineral resources. 
 Players get rewards by sending troops to clean up those biochemical monsters, and they can also send troops to occupy those mines and continue to gain wealth. Note that the number of troops to be dispatched is limited, and it takes time to send troops, so please allocate your combat troops reasonably.
 #### 8. Alliance war, players can form an alliance or join an alliance to strengthen their strength and find more partners. 
