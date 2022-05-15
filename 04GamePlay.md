@@ -1,5 +1,6 @@
 # <img src="./IMG/gameplay.png" width="3%" class="img_l1"> GamePlay
 #### A brief description of the player's game process
+##  Steps to experience the game
 #### 1. First, you need to enter the game by purchasing NFT land, and operate your base on the land.
 #### 2. The product is positioned as an SLG game.
 Players collect resources, train troops, upgrade technology, and cultivate heroes by operating bases. And send troops to clean up the surrounding zombies, occupy various resource points, in order to obtain more wealth and resources. Then compete against other players in alliance battles for glory.
