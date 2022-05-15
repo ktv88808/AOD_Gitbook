@@ -2,11 +2,11 @@
 #### There are 3 ways to collect heroes: via rescue hero, buy in shop and auction in the marketplace.
 Heroes are another important NFT asset in the product. It not only has powerful combat power and cool appearance, but also has unique skills, which can play a huge role in combat, defense, production, construction and other fields. 
 
-![image](IMG/0221.jpg)
+![image](IMG/0221.jpg "Heros")
 
 Players can buy NFT heroes, and then synthesize new heroes by fusing gene fragments. Each hero has skin color, hair color, hairstyle, body, eye color and other appearance characteristics. Players extract gene fragments from the purchased heroes, and then fuse them in the biological laboratory to obtain new heroes. The new hero will inherit the appearance characteristics of the parent hero, so in theory, a variety of heroes with different appearances will be combined to ensure the diversity of NFT heroes in appearance.
 
-![image](IMG/0222.jpg)
+![image](IMG/0222.jpg "Evolution")
 
 Players can cultivate this hero according to their own ideas, customize the learning plan of various skills, and create a personalized, brand-new hero that belongs to you.
 Hero skills include:

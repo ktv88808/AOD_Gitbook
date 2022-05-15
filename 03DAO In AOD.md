@@ -4,7 +4,7 @@ However, how to integrate the basic concept of DAO into the GameFi community gov
 
 We’re seeing these same patterns in DAO play out in Web3.
 
-![image](IMG/031.jpg)
+![image](IMG/031.jpg "Organizational Structure Of DAO")
 
 GameUnion uses DAO’s ideas to build a community. We will work with game guilds, opinion leaders, gamers, etc. to maintain the smooth operation and healthy development of the community.
 

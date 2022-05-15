@@ -6,5 +6,5 @@ With the emergence and development of Web3.0-related technologies, Web3.0 games,
 
 For the development and construction of GameUnion game system, major guilds can enter the platform and use their own tokens to form their own communities. Gamers can get token rewards while experiencing the game. This is a practice of DAO thinking.
 
-![image](IMG/Heros.jpg)
+![image](IMG/Heros.jpg "Get Together To Save The World")
 

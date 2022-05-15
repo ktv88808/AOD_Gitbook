@@ -7,19 +7,19 @@ Players collect resources, train troops, upgrade technology, and cultivate heroe
 * Gathering buildings: Obtain all kinds of resources necessary for production, construction and cultivation.
 * Defense: Provide defense for the base area, making it more difficult for the enemy to break through.
  
-![image](IMG/041.png)
+![image](IMG/041.png "Buildings")
 
 #### 4. Heroes exist as powerful combat units and personalizations of the game. 
 Players can train heroes according to their own preferences, obtain various skill points and talent points for them, and create their own heroes according to their own strategic deployment.
 
-![image](IMG/Hero3.jpg)
+![image](IMG/Hero3.jpg "Explorer")
 
 #### 5. Combat units: Players can train four types of combat units: Defender, Rogue, Shooter, and Destroyer. 
 Each combat unit has its own characteristics and combat positioning. There is a mutual growth and mutual restraint relationship between the four combat units. Players can use their strategies flexibly and reasonably match arms to make themselves victorious in every battle.
 #### 6. There are four resources in the game plan: stone, wood, food, and oil. 
 Players will have specific needs for these resources in the construction, production, research, training, medical and other modules. Therefore, when collecting resources, it is necessary to evenly distribute the collection power as much as possible, and there must be no shortcomings and emphasis, otherwise it will not be conducive to the subsequent operation and development, which is also a test of the player's wealth management ability.
 
-![image](IMG/Hero4.jpg)
+![image](IMG/Hero4.jpg "Raiders")
 
 #### 7. Field system: There are various biochemical monsters wandering around the base area, and there are also strongholds with rich mineral resources. 
 Players get rewards by sending troops to clean up those biochemical monsters, and they can also send troops to occupy those mines and continue to gain wealth. Note that the number of troops to be dispatched is limited, and it takes time to send troops, so please allocate your combat troops reasonably.

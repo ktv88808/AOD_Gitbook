@@ -5,4 +5,4 @@ Relying on the value of TokenGU, AODT is the product governance token of the AOD
 
 AODC relies on the player's game experience value and is the game currency of the products of AOD game projects. There are standard AODTs and custom AODTs customized in private game systems, which players earn and accumulate through game behavior. It can be used by players to purchase common resources in the game in the game store, or can be traded between players as a base currency.
 
-![image](IMG/061.jpg)
+![image](IMG/061.jpg "Ecological Structure")
