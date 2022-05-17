@@ -12,13 +12,13 @@ Players collect resources, train troops, upgrade technology, and cultivate heroe
 * Gathering buildings: Obtain all kinds of resources necessary for production, construction and cultivation.
 * Defense: Provide defense for the base area, making it more difficult for the enemy to break through.
 
-![](\_book/IMG/041.png)
+![](IMG/041.png)
 
 #### 4. Heroes exist as powerful combat units and personalizations of the game.
 
 Players can train heroes according to their own preferences, obtain various skill points and talent points for them, and create their own heroes according to their own strategic deployment.
 
-![](\_book/IMG/Hero3.jpg)
+![](IMG/Hero3.jpg)
 
 #### 5. Combat units: Players can train four types of combat units: Defender, Rogue, Shooter, and Destroyer.
 
@@ -28,7 +28,7 @@ Each combat unit has its own characteristics and combat positioning. There is a 
 
 Players will have specific needs for these resources in the construction, production, research, training, medical and other modules. Therefore, when collecting resources, it is necessary to evenly distribute the collection power as much as possible, and there must be no shortcomings and emphasis, otherwise it will not be conducive to the subsequent operation and development, which is also a test of the player's wealth management ability.
 
-![](\_book/IMG/Hero4.jpg)
+![](IMG/Hero4.jpg)
 
 #### 7. Field system: There are various biochemical monsters wandering around the base area, and there are also strongholds with rich mineral resources.
 

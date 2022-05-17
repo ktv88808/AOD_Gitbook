@@ -9,11 +9,11 @@ description: >-
 
 GameUnion are a casual game development studio founded in 2013 with the goal of creating the most popular indie game products. With the rise of web3.0, we transform to the blockchain field from 2021, making blockchain games.
 
-![](\_book/IMG/091.jpg)
+![](IMG/091.jpg)
 
 Through the polishing of independent games in the mobile Internet field in the past 10 years, we have accumulated several independent games with over 1 million downloads, and we are confident to become a successful blockchain game company. Currently GameUnion consists of 30 engineers and is headquartered in Hong Kong. Our founder team consists of the following members:
 
-![](\_book/IMG/092.jpg)
+![](IMG/092.jpg)
 
 #### CEO: Andson Lewis
 

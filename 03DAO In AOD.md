@@ -2,13 +2,13 @@
 description: The DAO is the fundamental principle on which we build our community.
 ---
 
-# 🏛 DAO In AOD
+# 🕍 DAO In AOD
 
 However, how to integrate the basic concept of DAO into the GameFi community governance, how to realize DAO from the technical and contract level, and let the game guild and game players experience the essence of DAO, has always been a problem.
 
 We’re seeing these same patterns in DAO play out in Web3.
 
-![](\_book/IMG/031.jpg)
+![](IMG/031.jpg)
 
 GameUnion uses DAO’s ideas to build a community. We will work with game guilds, opinion leaders, gamers, etc. to maintain the smooth operation and healthy development of the community.
 
