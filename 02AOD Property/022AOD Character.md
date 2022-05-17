@@ -12,7 +12,7 @@ Heroes are another important NFT asset in the product. It not only has powerful 
 
 Players can buy NFT heroes, and then synthesize new heroes by fusing gene fragments. Each hero has skin color, hair color, hairstyle, body, eye color and other appearance characteristics. Players extract gene fragments from the purchased heroes, and then fuse them in the biological laboratory to obtain new heroes. The new hero will inherit the appearance characteristics of the parent hero, so in theory, a variety of heroes with different appearances will be combined to ensure the diversity of NFT heroes in appearance.
 
-![](<../\_book/02AOD Property/IMG/0222.jpg>)
+![](<../\_book/02AOD Property/IMG/0223.jpg>)
 
 Players can cultivate this hero according to their own ideas, customize the learning plan of various skills, and create a personalized, brand-new hero that belongs to you. Hero skills include:
 
