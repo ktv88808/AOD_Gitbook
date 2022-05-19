@@ -4,7 +4,7 @@ description: The core play point of AOD
 
 # 🕹 AOD Property
 
-It is a new SLG mobile game with SLG gameplay as the core, based on Web3.0 technology, based on the core fun of the game, and integrated with blockchain technology.
+It is a new SLG multi-platform game with SLG gameplay as the core, based on Web3.0 technology, with the core fun of the game as the core, and integrating blockchain technology.
 
 ![](IMG/Hero1.jpg)
 
